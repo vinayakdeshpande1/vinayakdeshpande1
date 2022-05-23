@@ -4,15 +4,15 @@ Web Developer And a Competitive Programmer
 
 🛠 Languages and Tools I Know
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/78643764/169901726-dd7d0d86-c895-498a-b291-09d8ba559f09.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="100" height="100">
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/78643764/169901877-1f7f3087-b0b0-4601-abe9-416871e22fee.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" width="100" height="100">
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/78643764/169901762-6ee031e2-8519-4a95-8081-c66b62ffc45d.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="100" height="100">
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/78643764/169902061-d321f29f-b8b5-4684-8852-248ed9657fa0.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="100" height="100">
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/78643764/169901662-4e73a52b-a836-4125-9666-484722cec993.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="100" height="100">
 
 💻 My Programming Potral Links
 
