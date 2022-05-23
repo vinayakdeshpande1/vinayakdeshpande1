@@ -4,15 +4,15 @@ Web Developer And a Competitive Programmer
 
 🛠 Languages and Tools I Know
 
-![image](https://user-images.githubusercontent.com/78643764/169901726-dd7d0d86-c895-498a-b291-09d8ba559f09.png)
-<br>
-![image](https://user-images.githubusercontent.com/78643764/169901877-1f7f3087-b0b0-4601-abe9-416871e22fee.png)
-<br>
-![image](https://user-images.githubusercontent.com/78643764/169901762-6ee031e2-8519-4a95-8081-c66b62ffc45d.png)
-<br>
-![image](https://user-images.githubusercontent.com/78643764/169902061-d321f29f-b8b5-4684-8852-248ed9657fa0.png)
-<br>
-![image](https://user-images.githubusercontent.com/78643764/169901662-4e73a52b-a836-4125-9666-484722cec993.png)
+![image](https://user-images.githubusercontent.com/78643764/169901726-dd7d0d86-c895-498a-b291-09d8ba559f09.png =250x250)
+
+![image](https://user-images.githubusercontent.com/78643764/169901877-1f7f3087-b0b0-4601-abe9-416871e22fee.png =250x250)
+
+![image](https://user-images.githubusercontent.com/78643764/169901762-6ee031e2-8519-4a95-8081-c66b62ffc45d.png =250x250)
+
+![image](https://user-images.githubusercontent.com/78643764/169902061-d321f29f-b8b5-4684-8852-248ed9657fa0.png =250x250)
+
+![image](https://user-images.githubusercontent.com/78643764/169901662-4e73a52b-a836-4125-9666-484722cec993.png =250x250)
 
 💻 My Programming Potral Links
 
